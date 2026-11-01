@@ -9,5 +9,6 @@ const addTwo = (a, b) => {
 };
 console.log(addTwo(70, 30));
 // array 
+// const arr : string[] = ["hel", "34545"]
 const arr = ["hel", "34545"];
 const numArr = [1, 2, 4];
