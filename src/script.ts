@@ -19,3 +19,13 @@ const addTwo = (a : number,b  : number) : number=>{
 }
 
 console.log(addTwo(70,30))
+
+
+
+
+
+
+// array 
+
+const arr : string[] = ["hel", "34545"]
+

@@ -8,3 +8,5 @@ const addTwo = (a, b) => {
     return a + b;
 };
 console.log(addTwo(70, 30));
+// array 
+const arr = ["hel", "34545"];
