@@ -29,3 +29,4 @@ console.log(addTwo(70,30))
 
 const arr : string[] = ["hel", "34545"]
 
+const numArr : number[] =  [1,2,4]
