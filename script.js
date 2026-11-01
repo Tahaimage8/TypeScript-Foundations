@@ -7,4 +7,4 @@
 const addTwo = (a, b) => {
     return a + b;
 };
-console.log(addTwo(10, 20));
+console.log(addTwo(70, 20));
