@@ -49,7 +49,9 @@ const fullName = (fName : string , lName?: String) =>{
 console.log(fullName("Nazrul"))
 
 
-const gretings = (greeting : string = "hi", fullName: string) =>{
+const gretings = (greeting : string , fullName: string ="nuha") =>{
 
     console.log(greeting + " " + fullName)
 }
+
+gretings("raha",)
