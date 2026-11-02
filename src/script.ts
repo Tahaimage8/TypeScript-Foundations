@@ -55,3 +55,6 @@ const gretings = (greeting : string , fullName: string ="nuha") =>{
 }
 
 gretings("raha",)
+
+
+// object type ,type alias and  interface 
