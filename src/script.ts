@@ -58,3 +58,12 @@ gretings("raha",)
 
 
 // object type ,type alias and  interface 
+
+
+const user :{
+    name : string,
+    age: number,
+    isActive: boolean,
+    action : ()=> void;
+    badges : string[];
+}= {};
