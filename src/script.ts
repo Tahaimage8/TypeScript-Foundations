@@ -31,3 +31,19 @@ console.log(addTwo(70,30))
 const arr : Array<string> = ["hel", "34545"]
 
 const numArr : number[] =  [1,2,4]
+
+
+
+
+
+// function optional ,default , rest parameters handel 
+
+const fullName = (fName : string , lName?: String) =>{
+    if(!lName){
+        return fName
+    }
+
+    return fName + " " + lName
+}
+
+console.log(fullName("Nazrul"))
